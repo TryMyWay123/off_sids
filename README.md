@@ -1,2 +1,2 @@
-# off_sids
-A virtual ID card 
+# off_dids
+A Digital ID. 
